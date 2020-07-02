@@ -1,1 +1,2 @@
 C:\Fourth Semester\JavaScript\Assignment 1\Assignment\Assignment\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Fourth Semester\JavaScript\Assignment 1\Assignment\Assignment\obj\Debug\Assignment.njsprojAssemblyReference.cache
